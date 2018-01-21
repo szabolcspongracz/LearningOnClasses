@@ -6,7 +6,7 @@ public class Animal {
     private String name;
     private int weight;
     
-    public void makeSound(){
+    protected void makeSound(){
         System.out.println("AAAAAAAAA");
     }
 

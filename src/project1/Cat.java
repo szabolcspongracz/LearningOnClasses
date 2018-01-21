@@ -1,7 +1,7 @@
 
 package project1;
 
-public class Cat extends Animal{
+public class Cat extends Feline{
     
     @Override
     public void makeSound(){
