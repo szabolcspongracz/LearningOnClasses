@@ -2,7 +2,7 @@
 package project1;
 
 
-public class Animal {
+public abstract class Animal {
     private String name;
     private int weight;
     
